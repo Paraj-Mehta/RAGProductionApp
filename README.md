@@ -1,4 +1,4 @@
-# RAG Production App
+# QueryDocs
 
 A local, production-oriented Retrieval-Augmented Generation (RAG) application. Upload PDF documents, ask questions in natural language, and receive answers grounded strictly in the content of your uploaded files — powered by BGE-M3 embeddings, Qdrant vector storage, and Google Gemini for answer generation.
 
